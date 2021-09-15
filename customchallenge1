@@ -2,5 +2,6 @@
 layout: none
 permalink: .well-known/testfile
 # See https://maxchadwick.xyz/blog/the-well-known-folder-and-github-pages-jekyll
+# https://github.com/keybase/keybase-issues/issues/366#issuecomment-39044580
 ---
 test file (customchallenge1)
