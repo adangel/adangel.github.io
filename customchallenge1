@@ -1,0 +1,5 @@
+layout: none
+permalink: .well-known/testfile
+# See https://maxchadwick.xyz/blog/the-well-known-folder-and-github-pages-jekyll
+---
+test file (customchallenge1)
