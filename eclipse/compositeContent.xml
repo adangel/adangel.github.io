@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?compositeMetadataRepository version="1.0.0"?>
+<repository name="adangel.github.io Update Site" type="org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository" version="1.0.0">
+  <properties size="2">
+    <property name="p2.timestamp" value="1632858435000"/>
+    <property name="p2.atomic.composite.loading" value="true"/>
+  </properties>
+  <children size="5">
+    <child location="sf.eclipse.javacc-1.5.33"/>
+    <child location="m2eclipse-tycho-0.8.1.201704211436"/>
+    <child location="https://pmd.github.io/pmd-eclipse-plugin-p2-site/"/>
+    <child location="https://m2e-code-quality.github.io/m2e-code-quality-p2-site/"/>
+    <child location="https://ecd-plugin.github.io/update/"/>
+  </children>
+</repository>
