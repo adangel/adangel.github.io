@@ -7,7 +7,7 @@
   </properties>
   <children size="5">
     <child location="sf.eclipse.javacc-1.5.33"/>
-    <child location="m2eclipse-tycho-0.8.1.201704211436"/>
+    <child location="m2eclipse-tycho-0.9.0.201811261502"/>
     <child location="https://pmd.github.io/pmd-eclipse-plugin-p2-site/"/>
     <child location="https://m2e-code-quality.github.io/m2e-code-quality-p2-site/"/>
     <child location="https://ecd-plugin.github.io/update/"/>
